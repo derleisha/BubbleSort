@@ -41,7 +41,7 @@ public class BubbleSort {
                     inputNumbers[i] = numberSwapped;
                     sorted = false;
                 }
-                System.out.println();
+           
             }
         }
         for (int i = 0; i < inputNumbers.length; i++) {
@@ -55,4 +55,3 @@ public class BubbleSort {
 
 
 
-}
